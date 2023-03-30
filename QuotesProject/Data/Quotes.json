@@ -1,0 +1,42 @@
+[
+    {
+        "author": "Oscar Wilde",
+        "quote": "\"Be yourself; everyone else is already taken.\"",
+        "image": "ambition",
+        "details": [
+            "Born in Dublin, Ireland October 16, 1854", "Died: November 30, 1900","Oscar Fingal O'Flahertie Wills Wilde was an Irish playwright, poet, and author of numerous short stories, and one novel. Known for his biting wit, and a plentitude of aphorisms, he became one of the most successful playwrights of the late Victorian era in London, and one of the greatest celebrities of his day. Several of his plays continue to be widely performed, especially The Importance of Being Earnest. "
+        ]
+    },
+    {
+        "author": "Marcus Tullius Cicero",
+        "quote": "\"A room without books is like a body without a soul.\"",
+        "image": "calm",
+        "details": [
+            "Born in Arpinum, Italy January 13, 106BC", "Died December 27, 43BC", "Marcus Tullius Cicero, Roman philosopher, statesman, lawyer, political theorist, and Roman constitutionalist. Cicero is widely considered one of Rome's greatest orators and prose stylists."
+        ]
+    },
+    {
+        "author": "Albert Einstein",
+        "quote": "\"I'm not sure about the universe.\"",
+        "image": "focus",
+        "details": [
+            "Born in Ulm, Germany March 14, 1879", "Died April 18, 1955", "He completed his Ph.D. at the University of Zurich by 1909. His 1905 paper explaining the photoelectric effect, the basis of electronics, earned him the Nobel Prize in 1921. His first paper on Special Relativity Theory, also published in 1905, changed the world. After the rise of the Nazi party, Einstein made Princeton his permanent home, becoming a U.S. citizen in 1940. Einstein, a pacifist during World War I, stayed a firm proponent of social justice and responsibility. He chaired the Emergency Committee of Atomic Scientists, which organized to alert the public to the dangers of atomic warfare."
+        ]
+    },
+    {
+        "author": "Mae West",
+        "quote": "\"You only live once, but if you do it right, once is enough.\"",
+        "image": "reflect",
+        "details": [
+            "Born in Brooklyn, New York City, United States August 17, 1893", "Died October 22, 1980", "Mae West (August 17, 1893 – November 22, 1980) was an American actress, playwright, screenwriter, and sex symbol.Famous for her bawdy double entendres, West made a name for herself in vaudeville and on the stage in New York before moving to Hollywood to become a comedian, actress and writer in the motion picture industry."
+        ]
+    },
+    {
+        "author": "Mahatma Gandhi",
+        "quote": "\"Be the change that you wish to see in the world.\"",
+        "image": "relax",
+        "details": [
+            "Born in Porbander, Gujrat, India October 02, 1869", "DiedJanuary 30, 1948", "Mohandas Karamchand Gandhi, commonly known as Mahatma Gandhi, was the preeminent leader of Indian nationalism in British-ruled India. Employing non-violent civil disobedience, Gandhi led India to independence and inspired movements for non-violence, civil rights and freedom across the world."
+        ]
+    }
+]
