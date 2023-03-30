@@ -56,7 +56,4 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 
-/* To do:
- 1. Fix the image size
- 
- */
+
