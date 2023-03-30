@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		D6810E9929D4F506004ABCEA /* QuotesDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesDetailView.swift; sourceTree = "<group>"; };
+		D6810E9B29D51FE2004ABCEA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D6CA478029D37E8B00D68994 /* QuotesProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuotesProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6CA478329D37E8B00D68994 /* QuotesProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesProjectApp.swift; sourceTree = "<group>"; };
 		D6CA478529D37E8B00D68994 /* QuotesMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesMainView.swift; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 				D6CA479429D37F5C00D68994 /* Data */,
 				D6CA478729D37E8C00D68994 /* Assets.xcassets */,
 				D6CA478929D37E8C00D68994 /* Preview Content */,
+				D6810E9B29D51FE2004ABCEA /* README.md */,
 			);
 			path = QuotesProject;
 			sourceTree = "<group>";
