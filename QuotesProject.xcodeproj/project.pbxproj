@@ -46,6 +46,7 @@
 		D6CA477729D37E8B00D68994 = {
 			isa = PBXGroup;
 			children = (
+				D6810E9B29D51FE2004ABCEA /* README.md */,
 				D6CA478229D37E8B00D68994 /* QuotesProject */,
 				D6CA478129D37E8B00D68994 /* Products */,
 			);
@@ -70,7 +71,6 @@
 				D6CA479429D37F5C00D68994 /* Data */,
 				D6CA478729D37E8C00D68994 /* Assets.xcassets */,
 				D6CA478929D37E8C00D68994 /* Preview Content */,
-				D6810E9B29D51FE2004ABCEA /* README.md */,
 			);
 			path = QuotesProject;
 			sourceTree = "<group>";
